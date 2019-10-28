@@ -1,6 +1,6 @@
 {
     "Timestamp": "Date when the entry was submitted",
-    "Name": "Name of the CMS System",
+    "Name": "Name of the DXP System",
     "Version": "Version of the system",
     "License": "License of the system",
     "Inception": "When was the project started?",
