@@ -1,10 +1,12 @@
 {
     "Timestamp": "2018-07-28T17:34:41.227Z",
     "Name": "Bloomreach",
-"Design": "foo",
     "Version": "08-2018",
     "License": "Proprietary",
     "Inception": "07-2010",
+    "Design": "foo",
+    "Workflows [authoring]": "bar",
+    "Workflows [publishing]": "baz",
     "Category": "Essential - Professional",
     "Category2": "Essential - Professional",
     "Open Source": "No",
